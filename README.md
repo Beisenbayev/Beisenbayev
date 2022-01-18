@@ -34,7 +34,7 @@ I also work for <a src="https://github.com/doovertech">DooverTech</a> company as
 
 📈 **My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beisenbayev&count_private=true&include_all_commits=true&hide=stars,contribs&hide_border=true&show_icons=true&theme=graywhite" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beisenbayev&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite"/>
+<p style="display:grid;grid-template-columns: 6.1fr 3.9fr; gap: 10px;">
+  <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=beisenbayev&count_private=true&include_all_commits=true&hide=stars,contribs&hide_border=true&show_icons=true&theme=graywhite" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beisenbayev&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite"/>
 </p>
