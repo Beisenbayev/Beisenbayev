@@ -11,8 +11,8 @@
 
 <p>I am a Front-end Developer. I love programming, traveling and watching movies.</p>
 
-<p>At the moment I am a student of <a src="https://www.kaznu.kz/en/">Al-Farabi Kazakh National University</a><br>
-I also work for <a src="https://github.com/doovertech">DooverTech</a> company as a React developer.</p>
+<p>At the moment I am a student of [Al-Farabi Kazakh National University](https://www.kaznu.kz/en/)<br>
+I also work for [DooverTech](https://github.com/doovertech) company as a React developer.</p>
   
 
 **Talking about Personal Stuffs:**
