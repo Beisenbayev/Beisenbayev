@@ -1,7 +1,7 @@
 ### Hi there, I'm <a href="https://github.com/Beisenbayev" target="_blank">Beisenbayev Nursultan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/beisenbayev) -->
-[![Website Badge](https://img.shields.io/badge/Website-24A19C?style=flat&logo=google-chrome&logoColor=white)](https://beisenbayev.github.io/business-card-site/)
+[![Website Badge](https://img.shields.io/badge/Website-24A19C?style=flat&logo=google-chrome&logoColor=white)]('#')<!-- (https://beisenbayev.github.io/business-card-site/) -->
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/beisenbayeff)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_beisenbayev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?&style=flat&logo=Gmail&logoColor=white)](mailto:beisenbayeff.nursultan@gmail.com)
@@ -36,5 +36,5 @@ I also work for <a href="https://github.com/doovertech">DooverTech</a> company a
 
 <p style="display:inline;">
   <img  width="59%" src="https://github-readme-stats.vercel.app/api?username=beisenbayev&count_private=true&include_all_commits=true&hide=stars,contribs&hide_border=true&show_icons=true&theme=graywhite" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beisenbayev&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beisenbayev&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite&hide=html,css"/>
 </p>
